@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+huggingface_hub
+opencv-python
+matplotlib
+pandas
+Pillow
+timm
+tqdm
+kaggle
+jupyter
